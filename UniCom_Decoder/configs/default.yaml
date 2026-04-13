@@ -1,0 +1,23 @@
+base: ./base.yaml
+
+# Single GPU:
+# device: 0
+#
+# Multi GPU:
+# device: 0,1,2,3
+
+device: 0,1,2,3,4,5,6,7
+
+csv_path: UniCom/outputs/results.csv
+output_dir: UniCom/outputs/
+ckpt: model_zoo/unicom_decoder_transformer.pt
+vae_path: model_zoo/flux-vae
+siglip2_model_path: model_zoo/siglip2-so400m-patch16-naflex
+
+infer_steps: 100
+aba_mode: eval_compression_64_siglip
+condition_mode: pt
+condition_column: feature_path
+batch_size: 1
+num_shards: 1
+skip_existing: true

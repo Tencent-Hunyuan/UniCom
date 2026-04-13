@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# Local outputs and checkpoints
+output/
+outputs/
+model_zoo/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,18 @@
+# Shared runtime dependencies for UniCom + UniCom_Decoder
+einops==0.8.1
+numpy==2.2.0
+pillow==12.1.1
+diffusers==0.35.2
+safetensors==0.7.0
+tokenizers==0.22.0
+transformers[accelerate,tiktoken]==4.57.1
+huggingface_hub[cli]
+loguru>=0.7.3
+easydict
+tqdm
+PyYAML
+
+# Install PyTorch separately for your CUDA version.
+# Example for CUDA 12.8:
+# pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cu128
+

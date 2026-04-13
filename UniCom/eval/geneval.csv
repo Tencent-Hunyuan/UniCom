@@ -1,0 +1,554 @@
+index,seed,prompt
+0,254982,a photo of a bench
+1,789219,a photo of a cow
+2,312370,a photo of a bicycle
+3,171197,a photo of a clock
+4,686023,a photo of a carrot
+5,769705,a photo of a suitcase
+6,7234,a photo of a fork
+7,745538,a photo of a surfboard
+8,882450,a photo of a refrigerator
+9,393634,a photo of a cup
+10,784871,a photo of a microwave
+11,191465,a photo of a potted plant
+12,853320,a photo of a snowboard
+13,528344,a photo of a zebra
+14,367605,a photo of a parking meter
+15,966568,a photo of a spoon
+16,997585,a photo of a skateboard
+17,951797,a photo of a car
+18,537711,a photo of a motorcycle
+19,616836,a photo of a traffic light
+20,114212,a photo of a book
+21,339265,a photo of a couch
+22,190452,a photo of a backpack
+23,672654,a photo of a computer keyboard
+24,16157,a photo of a toaster
+25,733415,a photo of a bird
+26,837397,a photo of a bowl
+27,632363,a photo of a dog
+28,584739,a photo of a tie
+29,601498,a photo of a laptop
+30,967653,a photo of a computer mouse
+31,239001,a photo of a sandwich
+32,83746,a photo of a baseball bat
+33,716273,a photo of a train
+34,66727,a photo of a cell phone
+35,931277,a photo of a chair
+36,70980,a photo of a tv
+37,498175,a photo of a broccoli
+38,175625,a photo of a bed
+39,350409,a photo of a skis
+40,173548,a photo of a handbag
+41,739250,a photo of a pizza
+42,598517,a photo of a frisbee
+43,651512,a photo of a scissors
+44,756805,a photo of a bottle
+45,240981,a photo of an elephant
+46,50580,a photo of a toilet
+47,293590,a photo of an oven
+48,334107,a photo of an orange
+49,515802,a photo of a person
+50,522575,a photo of a teddy bear
+51,769750,a photo of a vase
+52,589685,a photo of a banana
+53,369677,a photo of a toothbrush
+54,325590,a photo of a tv remote
+55,130296,a photo of a dining table
+56,702869,a photo of a stop sign
+57,824657,a photo of a sheep
+58,469392,a photo of a fire hydrant
+59,135355,a photo of an airplane
+60,566943,a photo of a giraffe
+61,123111,a photo of a horse
+62,372878,a photo of a cat
+63,440011,a photo of a donut
+64,650312,a photo of a boat
+65,232661,a photo of a baseball glove
+66,669490,a photo of a hair drier
+67,610911,a photo of a sink
+68,992930,a photo of a cake
+69,289294,a photo of a wine glass
+70,329634,a photo of an apple
+71,868911,a photo of a bus
+72,798938,a photo of a tennis racket
+73,516673,a photo of a knife
+74,185176,a photo of a hot dog
+75,121168,a photo of a truck
+76,203003,a photo of an umbrella
+77,740870,a photo of a sports ball
+78,682082,a photo of a bear
+79,733719,a photo of a kite
+80,351634,a photo of a bench and a sports ball
+81,434962,a photo of a toothbrush and a snowboard
+82,9177,a photo of a toaster and an oven
+83,319667,a photo of a broccoli and a vase
+84,812716,a photo of a tennis racket and a wine glass
+85,759400,a photo of a fork and a knife
+86,872999,a photo of a hair drier and a cake
+87,652933,a photo of a horse and a giraffe
+88,726067,a photo of a horse and a computer keyboard
+89,82516,a photo of a toothbrush and a carrot
+90,558284,a photo of a cake and a zebra
+91,602297,a photo of a hair drier and a bear
+92,132626,a photo of a knife and a zebra
+93,254230,a photo of a couch and a wine glass
+94,175977,a photo of a frisbee and a vase
+95,688542,a photo of a book and a laptop
+96,593460,a photo of a dining table and a bear
+97,72772,a photo of a frisbee and a couch
+98,19887,a photo of a couch and a horse
+99,173826,a photo of a toilet and a computer mouse
+100,232968,a photo of a bottle and a refrigerator
+101,296575,a photo of a potted plant and a backpack
+102,772924,a photo of a skateboard and a cake
+103,394802,a photo of a broccoli and a parking meter
+104,391593,a photo of a zebra and a bed
+105,783523,a photo of an oven and a bed
+106,262712,a photo of a baseball bat and a fork
+107,354167,a photo of a vase and a spoon
+108,196392,a photo of a skateboard and a sink
+109,16298,a photo of a pizza and a bench
+110,556245,a photo of a bowl and a pizza
+111,344758,a photo of a tennis racket and a bird
+112,191322,a photo of a wine glass and a bear
+113,974860,a photo of a fork and a book
+114,676270,a photo of a scissors and a bowl
+115,175720,a photo of a laptop and a carrot
+116,998124,a photo of a stop sign and a bottle
+117,108235,a photo of a microwave and a truck
+118,470628,a photo of a person and a bear
+119,22263,a photo of a frisbee and a cell phone
+120,773983,a photo of a parking meter and a teddy bear
+121,658583,a photo of a tennis racket and a bicycle
+122,157582,a photo of a stop sign and a motorcycle
+123,878347,a photo of a fire hydrant and a tennis racket
+124,307329,a photo of a scissors and a sandwich
+125,902919,a photo of a pizza and a book
+126,953640,a photo of a giraffe and a computer mouse
+127,246795,a photo of a stop sign and a toaster
+128,592427,a photo of a computer mouse and a zebra
+129,331793,a photo of a chair and a bench
+130,624332,a photo of a tv and a carrot
+131,270489,a photo of a surfboard and a suitcase
+132,945290,a photo of a computer keyboard and a laptop
+133,795559,a photo of a computer keyboard and a microwave
+134,754432,a photo of a scissors and a bird
+135,70703,a photo of a person and a snowboard
+136,270542,a photo of a cow and a horse
+137,798343,a photo of a handbag and a refrigerator
+138,197073,a photo of a chair and a laptop
+139,61835,a photo of a toothbrush and a bench
+140,329172,a photo of a book and a baseball bat
+141,479910,a photo of a horse and a train
+142,699490,a photo of a bench and a vase
+143,481399,a photo of a traffic light and a backpack
+144,391509,a photo of a sports ball and a cow
+145,7748,a photo of a computer mouse and a spoon
+146,70012,a photo of a tv and a bicycle
+147,424176,a photo of a bench and a snowboard
+148,574605,a photo of a toothbrush and a toilet
+149,880242,a photo of a person and an apple
+150,957315,a photo of a sink and a sports ball
+151,82952,a photo of a stop sign and a dog
+152,265412,a photo of a knife and a stop sign
+153,927735,a photo of a wine glass and a handbag
+154,658399,a photo of a bowl and a skis
+155,413306,a photo of a frisbee and an apple
+156,27574,a photo of a computer keyboard and a cell phone
+157,162536,a photo of a stop sign and a fork
+158,501281,a photo of a potted plant and a boat
+159,979596,a photo of a tv and a cell phone
+160,590175,a photo of a tie and a broccoli
+161,388556,a photo of a potted plant and a donut
+162,381900,a photo of a person and a sink
+163,257523,a photo of a couch and a snowboard
+164,300924,a photo of a fork and a baseball glove
+165,586978,a photo of an apple and a toothbrush
+166,570366,a photo of a bus and a baseball glove
+167,908951,a photo of a person and a stop sign
+168,6956,a photo of a carrot and a couch
+169,120619,a photo of a baseball bat and a bear
+170,282395,a photo of a fire hydrant and a train
+171,807345,a photo of a baseball glove and a carrot
+172,192446,a photo of a microwave and a bench
+173,12087,a photo of a cake and a stop sign
+174,888561,a photo of a car and a computer mouse
+175,318409,a photo of a suitcase and a dining table
+176,896792,a photo of a person and a traffic light
+177,441279,a photo of a cell phone and a horse
+178,704270,a photo of a baseball bat and a giraffe
+179,299629,a photo of two clocks
+180,915721,a photo of two backpacks
+181,856426,a photo of four handbags
+182,71431,a photo of two frisbees
+183,38994,a photo of three sports balls
+184,703677,a photo of two bears
+185,684788,a photo of two ties
+186,572649,a photo of four sinks
+187,416418,a photo of two toothbrushs
+188,524813,a photo of three persons
+189,955925,a photo of three tennis rackets
+190,30432,a photo of four bowls
+191,796899,a photo of four vases
+192,904595,a photo of three cups
+193,25227,a photo of four computer keyboards
+194,544421,a photo of three sinks
+195,163051,a photo of two ovens
+196,854039,a photo of two toilets
+197,394729,a photo of two bicycles
+198,296647,a photo of two trains
+199,537991,a photo of three oranges
+200,893872,a photo of three buses
+201,144392,a photo of three handbags
+202,968621,a photo of three snowboards
+203,254961,a photo of two snowboards
+204,300621,a photo of four dogs
+205,764687,a photo of three apples
+206,617358,a photo of two sheeps
+207,710753,a photo of three hot dogs
+208,104237,a photo of three zebras
+209,991634,a photo of three kites
+210,828887,a photo of four apples
+211,390137,a photo of three cell phones
+212,990661,a photo of four baseball gloves
+213,754600,a photo of three computer keyboards
+214,393728,a photo of two beds
+215,673534,a photo of two tv remotes
+216,114136,a photo of three fire hydrants
+217,161604,a photo of three books
+218,119112,a photo of four giraffes
+219,424400,a photo of two vases
+220,530456,a photo of four donuts
+221,964032,a photo of four chairs
+222,803735,a photo of three baseball bats
+223,980801,a photo of four stop signs
+224,992106,a photo of two pizzas
+225,121078,a photo of three refrigerators
+226,876718,a photo of two fire hydrants
+227,25915,a photo of three giraffes
+228,41256,a photo of four tvs
+229,51830,a photo of three wine glasses
+230,333415,a photo of four broccolis
+231,84374,a photo of three trucks
+232,294154,a photo of two trucks
+233,158308,a photo of two carrots
+234,715595,a photo of two sandwichs
+235,849444,a photo of four traffic lights
+236,717882,a photo of four clocks
+237,507933,a photo of two cars
+238,319644,a photo of two bananas
+239,977706,a photo of two wine glasses
+240,25971,a photo of three pizzas
+241,406745,a photo of four knifes
+242,209451,a photo of three suitcases
+243,7203,a photo of four zebras
+244,140071,a photo of two teddy bears
+245,38845,a photo of four skateboards
+246,292359,a photo of four hot dogs
+247,452068,a photo of three birds
+248,950327,a photo of four boats
+249,129441,a photo of four microwaves
+250,644014,a photo of two hair driers
+251,916497,a photo of three laptops
+252,359957,a photo of three cows
+253,101653,a photo of two parking meters
+254,190842,a photo of four benchs
+255,758984,a photo of three benchs
+256,771617,a photo of four frisbees
+257,921547,a photo of four books
+258,385648,a photo of four buses
+259,284359,a photo of a blue fire hydrant
+260,489341,a photo of a pink car
+261,661712,a photo of a purple cup
+262,449710,a photo of a blue cow
+263,632443,a photo of a yellow boat
+264,401902,a photo of a blue umbrella
+265,899905,a photo of a blue elephant
+266,892527,a photo of a yellow elephant
+267,152336,a photo of a red bicycle
+268,492070,a photo of a purple suitcase
+269,52633,a photo of a purple hair drier
+270,5397,a photo of a white sandwich
+271,466350,a photo of a purple elephant
+272,991007,a photo of a green microwave
+273,705551,a photo of a red zebra
+274,908722,a photo of a red apple
+275,861726,a photo of a yellow tv remote
+276,330091,a photo of a blue toilet
+277,6842,a photo of an orange orange
+278,210948,a photo of a black donut
+279,705491,a photo of a red vase
+280,908854,a photo of a purple pizza
+281,187339,a photo of a pink skateboard
+282,354793,a photo of a green skateboard
+283,444244,a photo of a purple bear
+284,680816,a photo of a brown chair
+285,608538,a photo of a brown computer keyboard
+286,95119,a photo of an orange cow
+287,734857,a photo of a brown skis
+288,787732,a photo of a white kite
+289,450640,a photo of a red dog
+290,11166,a photo of a green couch
+291,546639,a photo of a yellow airplane
+292,398340,a photo of an orange tv
+293,633741,a photo of a white scissors
+294,294941,a photo of a pink cell phone
+295,86994,a photo of a green surfboard
+296,736348,a photo of a white fire hydrant
+297,710136,a photo of a black bicycle
+298,456628,a photo of a purple carrot
+299,978581,a photo of a black dining table
+300,376917,a photo of a purple potted plant
+301,978723,a photo of a purple backpack
+302,348937,a photo of a yellow train
+303,505716,a photo of a pink potted plant
+304,143078,a photo of a red giraffe
+305,184441,a photo of a brown bear
+306,853777,a photo of a black train
+307,603664,a photo of an orange laptop
+308,896445,a photo of a green hot dog
+309,283195,a photo of a yellow parking meter
+310,553200,a photo of a red potted plant
+311,694001,a photo of a green traffic light
+312,674708,a photo of a blue tv
+313,963053,a photo of a brown refrigerator
+314,811955,a photo of a black tv remote
+315,840360,a photo of a purple scissors
+316,596926,a photo of a yellow orange
+317,591989,a photo of a brown toaster
+318,713981,a photo of a red parking meter
+319,528782,a photo of a brown orange
+320,47116,a photo of a green clock
+321,43334,a photo of a white sheep
+322,367897,a photo of a yellow oven
+323,456310,a photo of a green vase
+324,962404,a photo of a black teddy bear
+325,996758,a photo of a yellow carrot
+326,359800,a photo of a black hot dog
+327,352397,a photo of a red scissors
+328,581869,a photo of a white teddy bear
+329,996730,a photo of a black skis
+330,935061,a photo of a blue dining table
+331,166037,a photo of a black refrigerator
+332,261806,a photo of a white dog
+333,286790,a photo of an orange scissors
+334,627536,a photo of a red cell phone
+335,226228,a photo of a white orange
+336,354218,a photo of a blue clock
+337,879871,a photo of a blue carrot
+338,275602,a photo of a green motorcycle
+339,907495,a photo of a pink stop sign
+340,877156,a photo of a black vase
+341,742784,a photo of a black backpack
+342,993550,a photo of a red car
+343,332361,a photo of a green computer mouse
+344,718491,a photo of a red backpack
+345,810962,a photo of a green bus
+346,778621,a photo of an orange toaster
+347,834965,a photo of a yellow fork
+348,339216,a photo of a pink parking meter
+349,393935,a photo of a blue book
+350,851650,a photo of a yellow broccoli
+351,200686,a photo of an orange computer mouse
+352,50680,a photo of a red cake
+353,388028,a photo of a dog right of a teddy bear
+354,806693,a photo of a wine glass above a kite
+355,213393,a photo of a couch below a cup
+356,906276,a photo of a laptop left of a cow
+357,711028,a photo of a fork above a hair drier
+358,490421,a photo of a tie right of a baseball bat
+359,109394,a photo of a stop sign above a fork
+360,519683,a photo of a bird below a skateboard
+361,269353,a photo of an apple above a tv
+362,213736,a photo of a train above a potted plant
+363,90058,a photo of a truck left of a refrigerator
+364,256484,a photo of a tv remote below a cow
+365,412169,a photo of a bottle right of a train
+366,417073,a photo of a dog above a cow
+367,461956,a photo of a skateboard above a person
+368,660806,a photo of a baseball glove below an umbrella
+369,248735,a photo of a dining table right of an oven
+370,137474,a photo of a hot dog left of a suitcase
+371,607754,a photo of a bus below a toothbrush
+372,990838,a photo of a backpack right of a sandwich
+373,605373,a photo of a cake below a baseball bat
+374,809976,a photo of a dog right of a tie
+375,945419,a photo of a suitcase right of a boat
+376,618297,a photo of a bear above a clock
+377,776347,a photo of a tv remote left of an umbrella
+378,561817,a photo of a sports ball left of an umbrella
+379,192374,a photo of a train right of a dining table
+380,160200,a photo of a hair drier below an elephant
+381,238051,a photo of a tennis racket right of a spoon
+382,40037,a photo of a wine glass right of a hot dog
+383,273393,a photo of a computer mouse left of a bench
+384,296963,a photo of a carrot left of an orange
+385,669044,a photo of a kite above a toothbrush
+386,627390,a photo of a toaster below a traffic light
+387,705225,a photo of a cat below a baseball glove
+388,237722,a photo of a skis right of a zebra
+389,973354,a photo of a stop sign above a chair
+390,773944,a photo of a stop sign above a parking meter
+391,865410,a photo of a hot dog right of a skateboard
+392,370390,a photo of a pizza below a computer keyboard
+393,554154,a photo of a hair drier left of a toilet
+394,31454,a photo of a cow left of a stop sign
+395,510532,a photo of a suitcase above a skis
+396,479759,a photo of a book above a laptop
+397,122277,a photo of a toothbrush below a pizza
+398,576178,a photo of a toilet left of a kite
+399,241029,a photo of a tie above a sink
+400,661491,a photo of a bird left of a couch
+401,968161,a photo of a bed right of a sports ball
+402,422223,a photo of an elephant below a surfboard
+403,530413,a photo of a frisbee right of a motorcycle
+404,976044,a photo of a vase above a fire hydrant
+405,192990,a photo of a zebra left of an elephant
+406,548434,a photo of a bench left of a bear
+407,163929,a photo of a donut right of a bench
+408,11267,a photo of a frisbee below a horse
+409,138747,a photo of a computer keyboard above a snowboard
+410,170357,a photo of a tv below a cow
+411,557590,a photo of an elephant below a horse
+412,720645,a photo of a suitcase left of a banana
+413,877850,a photo of a train below an airplane
+414,662294,a photo of a cat below a backpack
+415,130608,a photo of a backpack below a cake
+416,524159,a photo of a sandwich below a knife
+417,945181,a photo of a bicycle above a parking meter
+418,405322,a photo of a knife right of a suitcase
+419,328573,a photo of a hot dog above a knife
+420,806170,a photo of a zebra right of a parking meter
+421,165731,a photo of a chair left of a zebra
+422,513594,a photo of a cow below an airplane
+423,416961,a photo of a cup left of an umbrella
+424,434353,a photo of a zebra below a computer keyboard
+425,779008,a photo of a zebra below a broccoli
+426,852830,a photo of a laptop below a sports ball
+427,405496,a photo of a truck left of a baseball bat
+428,495340,a photo of a refrigerator above a baseball bat
+429,446807,a photo of a tv above a baseball bat
+430,821966,a photo of a baseball glove right of a bear
+431,534845,a photo of a refrigerator below a scissors
+432,21266,a photo of a dining table above a suitcase
+433,712638,a photo of a parking meter above a broccoli
+434,697816,a photo of a frisbee above a truck
+435,328636,a photo of a pizza right of a banana
+436,313261,a photo of a bus above a boat
+437,152550,a photo of a cell phone left of a tennis racket
+438,253194,a photo of a horse right of a broccoli
+439,868400,a photo of a broccoli above a bottle
+440,11141,a photo of a vase right of a horse
+441,496655,a photo of a bear above a spoon
+442,778844,a photo of a zebra right of a bed
+443,974487,a photo of a cow right of a laptop
+444,738073,a photo of a bed right of a frisbee
+445,42015,a photo of a tie right of a motorcycle
+446,55976,a photo of a laptop right of a tv
+447,690520,a photo of a cell phone right of a chair
+448,705800,a photo of a couch below a potted plant
+449,574443,a photo of a clock below a tv
+450,373001,a photo of a couch below a vase
+451,952026,a photo of a donut below a cat
+452,700397,a photo of a couch left of a toaster
+453,23724,a photo of a purple wine glass and a black apple
+454,385664,a photo of a green bus and a purple microwave
+455,407895,a photo of a green skis and a brown airplane
+456,119620,a photo of a yellow computer keyboard and a black sink
+457,617810,a photo of a pink oven and a green motorcycle
+458,727015,a photo of a purple parking meter and a red laptop
+459,828081,a photo of a yellow skateboard and an orange computer mouse
+460,395569,a photo of a red skis and a brown tie
+461,486835,a photo of a pink skateboard and a black train
+462,784566,a photo of a white handbag and a purple bed
+463,223696,a photo of a purple elephant and a brown sports ball
+464,136585,a photo of a purple dog and a black dining table
+465,669996,a photo of a white dining table and a red car
+466,906181,a photo of a blue cell phone and a green apple
+467,175477,a photo of a red car and an orange potted plant
+468,639354,a photo of a brown carrot and a white potted plant
+469,746180,a photo of a black kite and a green bear
+470,600170,a photo of a blue laptop and a brown bear
+471,968853,a photo of a green teddy bear and a brown kite
+472,607202,a photo of a yellow stop sign and a blue potted plant
+473,615541,a photo of an orange snowboard and a green cat
+474,574979,a photo of an orange truck and a pink sink
+475,155829,a photo of a brown hot dog and a purple pizza
+476,828481,a photo of a green couch and an orange umbrella
+477,532980,a photo of a brown bed and a pink cell phone
+478,544250,a photo of a black broccoli and a yellow cake
+479,409892,a photo of a red train and a purple bear
+480,75998,a photo of a purple tennis racket and a black sink
+481,781885,a photo of a blue vase and a black banana
+482,799321,a photo of a blue clock and a white cup
+483,971202,a photo of a red umbrella and a blue couch
+484,984622,a photo of a white handbag and a red giraffe
+485,594412,a photo of a pink tv remote and a blue airplane
+486,333445,a photo of a pink handbag and a black scissors
+487,968962,a photo of a brown car and a pink hair drier
+488,155218,a photo of a black bus and a brown cell phone
+489,749959,a photo of a purple sheep and a pink banana
+490,625308,a photo of a blue handbag and a white cell phone
+491,929466,a photo of a white pizza and a green umbrella
+492,151890,a photo of a white tie and a purple skateboard
+493,337462,a photo of a yellow sports ball and a green boat
+494,162543,a photo of a white wine glass and a brown giraffe
+495,679221,a photo of a yellow bowl and a white baseball glove
+496,70402,a photo of an orange microwave and a black spoon
+497,944260,a photo of an orange skateboard and a pink bowl
+498,258927,a photo of a blue toilet and a white suitcase
+499,953641,a photo of a white boat and an orange hot dog
+500,66308,a photo of a yellow dining table and a pink dog
+501,986382,a photo of a red cake and a purple chair
+502,843028,a photo of a blue tie and a pink dining table
+503,639899,a photo of a blue cow and a black computer keyboard
+504,353060,a photo of a yellow pizza and a green oven
+505,964814,a photo of a red laptop and a brown car
+506,841153,a photo of a purple computer keyboard and a blue scissors
+507,650228,a photo of a green surfboard and an orange oven
+508,401076,a photo of a yellow parking meter and a pink refrigerator
+509,624771,a photo of a brown computer mouse and a purple bottle
+510,939896,a photo of a red umbrella and a green cow
+511,154480,a photo of a red giraffe and a black cell phone
+512,281347,a photo of a brown oven and a purple train
+513,955746,a photo of a blue baseball bat and a pink book
+514,817871,a photo of a green cup and a yellow bowl
+515,369501,a photo of a yellow suitcase and a brown bus
+516,142399,a photo of an orange motorcycle and a pink donut
+517,904169,a photo of an orange giraffe and a white baseball glove
+518,197093,a photo of an orange handbag and a green carrot
+519,890223,a photo of a black bottle and a white refrigerator
+520,255522,a photo of a white dog and a blue potted plant
+521,66567,a photo of an orange handbag and a red car
+522,96423,a photo of a red stop sign and a blue book
+523,368435,a photo of a yellow car and an orange toothbrush
+524,447352,a photo of a black potted plant and a yellow toilet
+525,132745,a photo of a brown dining table and a white suitcase
+526,842401,a photo of an orange donut and a yellow stop sign
+527,153998,a photo of a green suitcase and a blue boat
+528,563620,a photo of an orange tennis racket and a yellow sports ball
+529,328321,a photo of a purple computer keyboard and a red chair
+530,464294,a photo of a purple suitcase and an orange pizza
+531,245745,a photo of a white bottle and a blue sheep
+532,16573,a photo of a purple backpack and a white umbrella
+533,942837,a photo of an orange potted plant and a black spoon
+534,34898,a photo of a green tennis racket and a black dog
+535,274444,a photo of a yellow handbag and a blue refrigerator
+536,110613,a photo of a pink broccoli and a red sink
+537,912155,a photo of a red bowl and a pink sink
+538,848042,a photo of a white toilet and a red apple
+539,899326,a photo of a pink dining table and a black sandwich
+540,752794,a photo of a black car and a green parking meter
+541,635814,a photo of a yellow bird and a black motorcycle
+542,709533,a photo of a brown giraffe and a white stop sign
+543,397509,a photo of a white banana and a black elephant
+544,459590,a photo of an orange cow and a purple sandwich
+545,268394,a photo of a red clock and a black cell phone
+546,422455,a photo of a brown knife and a blue donut
+547,645987,a photo of a red cup and a pink handbag
+548,430671,a photo of a yellow bicycle and a red motorcycle
+549,797184,a photo of a red orange and a purple broccoli
+550,141503,a photo of an orange traffic light and a white toilet
+551,787544,a photo of a green cup and a red pizza
+552,194277,a photo of a blue pizza and a yellow baseball glove

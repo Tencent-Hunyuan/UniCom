@@ -1,0 +1,23 @@
+base: ./base.yaml
+
+device: 0,1,2,3
+
+csv_path: UniCom_Decoder/assets/demo_recon_imgs/demo_recon.csv
+output_dir: output/reconstruction_demo_s50
+ckpt: model_zoo/unicom_decoder_transformer.pt
+vae_path: model_zoo/flux-vae
+siglip2_model_path: model_zoo/siglip2-so400m-patch16-naflex
+
+mode: eval_gt
+infer_steps: 50
+cfg_scale: 1.0
+flux_cfg_scale: 1.0
+flow_shift: 3.0
+siglip2_max_num_patches: 1024
+aba_mode: compression_64_siglip
+condition_mode: siglip2
+condition_column: image_path
+negative_condition_mode: zeros
+comparison_output: true
+batch_size: 1
+num_shards: 1
