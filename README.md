@@ -15,9 +15,15 @@ Official code for the paper [UniCom: Unified Multimodal Modeling via Compressed 
 
 UniCom is a unified large-scale multimodal model that performs generation directly over compressed visual embeddings. This repository includes the inference pipeline for text-to-image generation, image editing, and image reconstruction.
 
-![UniCom Framework](./UniCom/assets/framework.png)
+## News
 
-*Figure: We compare different unified modeling choices in terms of convergence speed and consistency on editing tasks, and ultimately build UniCom with the Path I transfusion-style formulation rather than the Path II query-guided design.*
+- **[2026-10]** 🎉 UniCom is accepted by **NeurIPS 2026**!
+- **[2026-04]** 🔥 Model weights released on [Hugging Face](https://huggingface.co/tencent/Unicom-Unified-Multimodal-Modeling-via-Compressed-Continuous-Semantic-Representations), including UniCom and its reconstruction decoder.
+- **[2026-04]** 🔥 Inference and image reconstruction code released.
+
+[![Overview of UniCom](./UniCom/assets/unicom_v3_method.svg)](./UniCom/assets/unicom_v3_method.pdf)
+
+*Overview of UniCom (Figure 2 in the paper). UniCom compresses high-dimensional semantic features into a compact continuous latent space that preserves visual semantics while making generation tractable. This shared space serves as the unified interface where a Transfusion-style transformer predicts compressed visual latents and a diffusion decoder maps them back to images.*
 
 ## 🔥 Key Contributions
 
