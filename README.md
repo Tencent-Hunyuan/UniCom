@@ -23,7 +23,7 @@ UniCom is a unified large-scale multimodal model that performs generation direct
 
 [![Overview of UniCom](./UniCom/assets/unicom_v3_method.svg)](./UniCom/assets/unicom_v3_method.pdf)
 
-*Overview of UniCom (Figure 2 in the paper). UniCom compresses high-dimensional semantic features into a compact continuous latent space that preserves visual semantics while making generation tractable. This shared space serves as the unified interface where a Transfusion-style transformer predicts compressed visual latents and a diffusion decoder maps them back to images.*
+*Overview of UniCom. UniCom compresses high-dimensional semantic features into a compact continuous latent space that preserves visual semantics while making generation tractable. This shared space serves as the unified interface where a Transfusion-style transformer predicts compressed visual latents and a diffusion decoder maps them back to images.*
 
 ## 🔥 Key Contributions
 
