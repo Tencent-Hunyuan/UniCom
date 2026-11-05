@@ -2,12 +2,11 @@
 
 Yaqi Zhao<sup>1,2,4,&ast;</sup>, Wang Lin<sup>3,4,&ast;</sup>, Zijian Zhang<sup>4</sup>, Miles Yang<sup>4</sup>, Zhao Zhong<sup>4</sup>, Liefeng Bo<sup>4</sup>, Jingyuan Chen<sup>3,&dagger;</sup>, Wentao Zhang<sup>1,&dagger;</sup>
 
-<sup>1</sup>Peking University<br>
-<sup>2</sup>The Hong Kong University of Science and Technology<br>
-<sup>3</sup>Zhejiang University<br>
+<sup>1</sup>Peking University &nbsp;
+<sup>2</sup>The Hong Kong University of Science and Technology &nbsp;
+<sup>3</sup>Zhejiang University &nbsp;
 <sup>4</sup>Tencent Hunyuan<br>
-<sup>&ast;</sup>Equal contribution &nbsp; <sup>&dagger;</sup>Corresponding authors<br>
-Work done by Yaqi Zhao and Wang Lin during their internships at Tencent Hunyuan.
+<sup>&ast;</sup>Equal contribution. Work done during internships at Tencent Hunyuan. &nbsp; <sup>&dagger;</sup>Corresponding authors<br>
 
 Official code for the paper [UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations](https://arxiv.org/abs/2603.10702).
 
