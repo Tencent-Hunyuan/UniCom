@@ -1,5 +1,11 @@
 # UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations
 
+Yaqi Zhao<sup>1,2,4,*</sup>, Wang Lin<sup>3,4,*</sup>, Zijian Zhang<sup>4</sup>, Miles Yang<sup>4</sup>, Zhao Zhong<sup>4</sup>, Liefeng Bo<sup>4</sup>, Jingyuan Chen<sup>3,†</sup>, Wentao Zhang<sup>1,†</sup>
+
+<sup>1</sup>Peking University &nbsp; <sup>2</sup>The Hong Kong University of Science and Technology &nbsp; <sup>3</sup>Zhejiang University &nbsp; <sup>4</sup>Tencent Hunyuan
+
+<sup>*</sup>These authors contributed equally to this work. &nbsp; <sup>†</sup>Corresponding authors.
+
 Official code for the paper [UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations](https://arxiv.org/abs/2603.10702).
 
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-UniCom-yellow)](https://huggingface.co/tencent/Unicom-Unified-Multimodal-Modeling-via-Compressed-Continuous-Semantic-Representations)
@@ -199,7 +205,7 @@ If you find UniCom useful for your research, please cite:
 ```bibtex
 @misc{zhao2026unicomunifiedmultimodalmodeling,
   title={UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations},
-  author={Yaqi Zhao and Wang Lin and Zijian Zhang and Miles Yang and Jingyuan Chen and Wentao Zhang and Zhao Zhong and Liefeng Bo},
+  author={Yaqi Zhao and Wang Lin and Zijian Zhang and Miles Yang and Zhao Zhong and Liefeng Bo and Jingyuan Chen and Wentao Zhang},
   year={2026},
   eprint={2603.10702},
   archivePrefix={arXiv},
