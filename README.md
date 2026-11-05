@@ -211,7 +211,7 @@ If you find UniCom useful for your research, please cite:
 ```bibtex
 @misc{zhao2026unicomunifiedmultimodalmodeling,
   title={UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations},
-  author={Yaqi Zhao and Wang Lin and Zijian Zhang and Miles Yang and Zhao Zhong and Liefeng Bo and Jingyuan Chen and Wentao Zhang},
+  author={Yaqi Zhao and Wang Lin and Zijian Zhang and Miles Yang and Jingyuan Chen and Wentao Zhang and Zhao Zhong and Liefeng Bo},
   year={2026},
   eprint={2603.10702},
   archivePrefix={arXiv},
