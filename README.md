@@ -1,10 +1,21 @@
 # UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations
 
-Yaqi Zhao<sup>1,2,4,*</sup>, Wang Lin<sup>3,4,*</sup>, Zijian Zhang<sup>4</sup>, Miles Yang<sup>4</sup>, Zhao Zhong<sup>4</sup>, Liefeng Bo<sup>4</sup>, Jingyuan Chen<sup>3,†</sup>, Wentao Zhang<sup>1,†</sup>
+<p align="center">
+  <b>Yaqi Zhao<sup>1,2,4,*</sup>, Wang Lin<sup>3,4,*</sup>, Zijian Zhang<sup>4</sup>, Miles Yang<sup>4</sup>,<br>
+  Zhao Zhong<sup>4</sup>, Liefeng Bo<sup>4</sup>, Jingyuan Chen<sup>3,†</sup>, Wentao Zhang<sup>1,†</sup></b>
+</p>
 
-<sup>1</sup>Peking University &nbsp; <sup>2</sup>The Hong Kong University of Science and Technology &nbsp; <sup>3</sup>Zhejiang University &nbsp; <sup>4</sup>Tencent Hunyuan
+<p align="center">
+  <sup>1</sup>Peking University<br>
+  <sup>2</sup>The Hong Kong University of Science and Technology<br>
+  <sup>3</sup>Zhejiang University<br>
+  <sup>4</sup>Tencent Hunyuan
+</p>
 
-<sup>*</sup>These authors contributed equally to this work. &nbsp; <sup>†</sup>Corresponding authors.
+<p align="center">
+  <sup>*</sup>These authors contributed equally to this work.<br>
+  <sup>†</sup>Corresponding authors.
+</p>
 
 Official code for the paper [UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations](https://arxiv.org/abs/2603.10702).
 
